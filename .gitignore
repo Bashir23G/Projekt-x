@@ -2,3 +2,5 @@ hallo.html
 hallo2.html
 hallo3.html
 hallo4.html
+*.ignore
+test.html
